@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springcloud_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka01/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_api/pom.xml" />
+        <option value="$PROJECT_DIR$/sptingcloud_member01/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_member02/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_member03/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-hystrix/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

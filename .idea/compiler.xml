@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-hystrix" />
+        <module name="springcloud_api" />
+        <module name="springcloud_eureka" />
+        <module name="springcloud_eureka (1)" />
+        <module name="springcloud_eureka (2)" />
+        <module name="springcloud_feign" />
+        <module name="springcloud_member02" />
+        <module name="springcloud_member03" />
+        <module name="springcloud_ribbon" />
+        <module name="sptingcloud_member01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="model" target="1.8" />
+      <module name="springcloud-hystrix" target="1.8" />
+      <module name="springcloud_api" target="1.8" />
+      <module name="springcloud_eureka" target="1.8" />
+      <module name="springcloud_eureka (1)" target="1.8" />
+      <module name="springcloud_eureka (2)" target="1.8" />
+      <module name="springcloud_feign" target="1.8" />
+      <module name="springcloud_member" target="1.8" />
+      <module name="springcloud_member01" target="1.8" />
+      <module name="springcloud_member02" target="1.8" />
+      <module name="springcloud_member03" target="1.8" />
+      <module name="springcloud_parent" target="1.5" />
+      <module name="springcloud_ribbon" target="1.8" />
+      <module name="sptingcloud_member01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

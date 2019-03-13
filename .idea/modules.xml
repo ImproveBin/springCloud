@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-hystrix/springcloud-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_api/springcloud_api.iml" filepath="$PROJECT_DIR$/springcloud_api/springcloud_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka/springcloud_eureka.iml" filepath="$PROJECT_DIR$/springcloud_eureka/springcloud_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka01/springcloud_eureka (1).iml" filepath="$PROJECT_DIR$/springcloud_eureka01/springcloud_eureka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka02/springcloud_eureka (2).iml" filepath="$PROJECT_DIR$/springcloud_eureka02/springcloud_eureka (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_feign/springcloud_feign.iml" filepath="$PROJECT_DIR$/springcloud_feign/springcloud_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_member02/springcloud_member02.iml" filepath="$PROJECT_DIR$/springcloud_member02/springcloud_member02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_member03/springcloud_member03.iml" filepath="$PROJECT_DIR$/springcloud_member03/springcloud_member03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_ribbon/springcloud_ribbon.iml" filepath="$PROJECT_DIR$/springcloud_ribbon/springcloud_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sptingcloud_member01/sptingcloud_member01.iml" filepath="$PROJECT_DIR$/sptingcloud_member01/sptingcloud_member01.iml" />
+    </modules>
+  </component>
+</project>
